@@ -17,7 +17,7 @@ receiving such patches depend on the CVSS v3.0 Rating:
 
 | Version | Supported          |
 | ------- | ------------------ |
-| [latest](https://github.com/WatchGuard-Threat-Lab/Splunk_TA-WatchGuard_Endpoint/releases/latest)  | :white_check_mark: |
+| [latest](https://github.com/WatchGuard-Threat-Lab/Splunk_TA_WatchGuard_Endpoint/releases/latest)  | :white_check_mark: |
 
 
 ## Reporting a Vulnerability
